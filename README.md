@@ -69,7 +69,11 @@ The game was re-released on [Good Old Games][gog] in 2016.
 
 ## CD contents
 
-### Disc 1 (CD-C95-166-0)
+### Disc one
+
+Physical label: CD-C95-166-0
+
+Media title: OLAD1_1
 
 Game files:
 
@@ -96,3 +100,22 @@ Other:
 - `DEMOS` — Demos and trailers for other Interplay games.
 - `DIRECTX` — DirectX 4 redistributable.
 - `EREG` — Electronic registraion.
+
+### Disc two
+
+Physical label: CD-C95-166-1
+
+Media title: OLAD1_2
+
+Game files:
+
+- `CURSORS` — Similar to disc one. More files.
+- `FONTS` — Same as disc one.
+- `IBMS` — Same as disc one.
+- `MOVIES` — Similar to disc one. Transitions have one- and two-digit numbers
+  and letters other than 'A'.
+- `T_TRACKS` — *Not on disc one.* `*.SND`. Same format as in `TRACKS`.
+  - `SC_###.SND` — Female tutorial announcments.
+  - `SCGM22X.SND` — Male tutorial announcments. `X` is one of: `A`, `B`, `C`
+- `TRACKS` — Similar to disc one. More files.
+- `VIDEOS` — Similar to disc one. More files.
